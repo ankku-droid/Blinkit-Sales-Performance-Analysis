@@ -8,7 +8,7 @@ The objective of this project is to transform raw sales data into meaningful ins
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot here after uploading it to the repository.
+> https://github.com/ankku-droid/Blinkit-Sales-Performance-Analysis/blob/main/Dashoboard.png
 
 ## Key Performance Indicators
 
