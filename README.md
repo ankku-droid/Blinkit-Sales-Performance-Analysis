@@ -1,16 +1,16 @@
 # Blinkit Sales Analysis Dashboard | Power BI
 
-## Project Overview
+## 📊 Project Overview
 
 This project presents an interactive **Blinkit Sales Analysis Dashboard** developed using **Power BI**. The dashboard provides insights into sales performance, product categories, outlet characteristics, customer ratings, and item visibility.
 
 The objective of this project is to transform raw sales data into meaningful insights through interactive visualisations and key performance indicators.
 
-## Dashboard Preview
+## 📷 Dashboard Preview
 
-> https://github.com/ankku-droid/Blinkit-Sales-Performance-Analysis/blob/main/Dashoboard.png
+![Blinkit Sales Dashboard](Dashoboard.png)
 
-## Key Performance Indicators
+## 📈 Key Performance Indicators
 
 The dashboard tracks the following key metrics:
 
@@ -19,33 +19,33 @@ The dashboard tracks the following key metrics:
 * **Number of Items:** 8,523
 * **Average Rating:** 3.9
 
-## Dashboard Features
+## 🔍 Dashboard Features
 
-### Sales Performance Analysis
+### 📊 Sales Performance Analysis
 
 Analyse overall sales performance using interactive KPIs and visualisations.
 
-### Outlet Establishment Analysis
+### 📅 Outlet Establishment Analysis
 
 Track sales trends based on outlet establishment years to identify changes in sales performance over time.
 
-### Item Type Analysis
+### 🛒 Item Type Analysis
 
 Identify top-performing product categories based on total sales.
 
-### Fat Content Analysis
+### 🥛 Fat Content Analysis
 
 Compare sales performance between **Low Fat** and **Regular** products.
 
-### Outlet Size Analysis
+### 📏 Outlet Size Analysis
 
 Analyse sales distribution across Small, Medium, and High outlet sizes.
 
-### Outlet Location Analysis
+### 📍 Outlet Location Analysis
 
 Compare sales performance across different outlet location tiers.
 
-### Outlet Type Analysis
+### 🏪 Outlet Type Analysis
 
 Evaluate different outlet types based on:
 
@@ -55,7 +55,7 @@ Evaluate different outlet types based on:
 * Average Rating
 * Item Visibility
 
-## Interactive Features
+## 🎛️ Interactive Features
 
 The dashboard includes interactive slicers for:
 
@@ -70,7 +70,7 @@ Users can also switch between different performance metrics, including:
 * Number of Items
 * Average Rating
 
-## Key Insights
+## 💡 Key Insights
 
 * Total sales reached **$1.20M** across **8,523 items**.
 * The overall average sales value is **$141**, with an average customer rating of **3.9**.
@@ -79,7 +79,7 @@ Users can also switch between different performance metrics, including:
 * The dashboard enables comparison between Low Fat and Regular products to understand product-level sales distribution.
 * Outlet characteristics, including establishment year, size, location, and type, have a significant impact on overall sales performance.
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 * **Power BI**
 * **Power Query**
@@ -87,7 +87,7 @@ Users can also switch between different performance metrics, including:
 * **Data Visualisation**
 * **Data Analysis**
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 * Data Cleaning and Transformation
 * Data Modelling
@@ -97,14 +97,14 @@ Users can also switch between different performance metrics, including:
 * Data Visualisation
 * Business Insights and Analysis
 
-## How to Use
+## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Open the file using **Power BI Desktop**.
 3. Use the slicers to filter the dashboard by Outlet Location Type, Outlet Size, and Item Type.
 4. Explore the different visuals and analyse sales performance.
 
-## Dashboard
+## 📊 Dashboard
 
 The dashboard provides a comprehensive overview of Blinkit sales performance and helps analyse key factors influencing sales across products and outlets.
 
